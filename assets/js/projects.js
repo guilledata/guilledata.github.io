@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
     // aniview js
     var options = {
-        animateThreshold: 100,
+        animateThreshold: 50,
         scrollPollInterval: 50
     }
     $('.aniview').AniView(options);
