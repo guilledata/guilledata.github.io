@@ -819,6 +819,7 @@ figure img {
 .contact p {
   font-size: 1.6rem;
   padding: 2rem 0;
+  text-align: center;
 }
 .contact .btn-neon-circle {
   position: relative;
